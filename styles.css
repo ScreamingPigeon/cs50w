@@ -1,0 +1,27 @@
+.title {
+  text-align: center; }
+
+p {
+  font-size: 150%; }
+
+div {
+  font-size: 200%;
+  color: div color;
+  font-style: inherit; }
+  div h4 {
+    color: black; }
+
+#green {
+  font-size: 125%; }
+
+#green {
+  color: green; }
+
+.img {
+  font-size: 225%;
+  font-family: Agency FB; }
+
+h4 {
+  font-family: Comic Sans; }
+
+/*# sourceMappingURL=styles.css.map */
